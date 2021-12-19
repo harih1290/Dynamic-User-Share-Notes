@@ -1,0 +1,16 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    display:block;
+    justify-content: center;
+    align-items: center;
+}
+
+.containers {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 10%;
+    margin-left: 10%;   
+}
